@@ -9,6 +9,20 @@
 ## How-to Guide
 [Read article on DEV](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)
 
+```text
+npm install firebase
+```
+
+![img.png](assets_github/img.png)
+![img_1.png](assets_github/img_1.png)
+![img_2.png](assets_github/img_2.png)
+![img_3.png](assets_github/img_3.png)
+![img_4.png](assets_github/img_4.png)
+![img_5.png](assets_github/img_5.png)
+![img_6.png](assets_github/img_6.png)
+![img_7.png](assets_github/img_7.png)
+![img_8.png](assets_github/img_8.png)
+
 ## Installation
 - Clone the project repository. Don't forget to star the repo 😉
 - Run `npm install` to install its dependencies.
