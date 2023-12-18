@@ -4,12 +4,12 @@ import { EmailAuthProvider } from "firebase/auth";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHhk9ga2cgmyety7enxjDUuCPdHPODimc",
+  apiKey: "xxx",
   authDomain: "instock-app-616f1.firebaseapp.com",
   projectId: "instock-app-616f1",
   storageBucket: "instock-app-616f1.appspot.com",
-  messagingSenderId: "1029048116094",
-  appId: "1:1029048116094:web:577b057fd4516f575a492f",
+  messagingSenderId: "xxx",
+  appId: "1:xx:web:xxx",
   measurementId: "G-79BQVKMPSR"
 };
 
